@@ -1,7 +1,5 @@
 # GitHub Actions Fundamentals
 
-- Trigger test
-
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
